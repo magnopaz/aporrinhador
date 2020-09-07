@@ -1,8 +1,7 @@
-using Avalonia;
-using Avalonia.Controls;
+﻿using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 
-namespace Worker.Views
+namespace BotherApp.Worker.Views
 {
     public class MainWindow : Window
     {

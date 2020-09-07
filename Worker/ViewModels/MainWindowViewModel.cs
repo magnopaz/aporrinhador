@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Worker.ViewModels
+﻿namespace BotherApp.Worker.ViewModels
 {
     public class MainWindowViewModel : ViewModelBase
     {
-        public string Greeting => "Hello World!";
+        public string Greeting => "Teste avalionia";
     }
 }

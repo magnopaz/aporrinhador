@@ -1,10 +1,10 @@
-using Avalonia;
+﻿using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
-using Worker.ViewModels;
-using Worker.Views;
+using BotherApp.Worker.ViewModels;
+using BotherApp.Worker.Views;
 
-namespace Worker
+namespace BotherApp.Worker
 {
     public class App : Application
     {

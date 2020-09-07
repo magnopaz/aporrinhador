@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using ReactiveUI;
+﻿using ReactiveUI;
 
-namespace Worker.ViewModels
+namespace BotherApp.Worker.ViewModels
 {
     public class ViewModelBase : ReactiveObject
     {
